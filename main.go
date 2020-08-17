@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"iox/operate"
-	"iox/option"
+	"github.com/briteming/iox/operate"
+	"github.com/briteming/iox/option"
 	"os"
 )
 
